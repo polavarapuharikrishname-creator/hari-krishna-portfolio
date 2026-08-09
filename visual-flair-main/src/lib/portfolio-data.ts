@@ -126,7 +126,7 @@ export const LEADERSHIP: LeadershipYear[] = [
          summary: "Partnered with Unstop to organize workshops and expand student engagement.",
         detail:
         "Served as Unstop's Campus Public Relations Representative during my second year, strengthening the collaboration between Unstop and ANITS. Led promotional campaigns, coordinated with student communities, and successfully organized events such as an LLM Workshop along with other technical and career-development workshops. Focused on increasing student participation and creating opportunities for learning, networking, and skill enhancement.",
-         image: "/images/unstop1.pg",
+         image: "/images/unstop1.jpg",
       },
       {
         org: "AIESEC",
@@ -136,7 +136,7 @@ export const LEADERSHIP: LeadershipYear[] = [
         summary: "Member of Outgoing Global Volunteer Department (oGV)  promoted to Managing Board  Business Development (BD); raised ₹1.5L for WLS.",
         detail:
           "Joined AIESEC as General Body member in the oGV department (Outgoing Global Volunteer), maintaining international partnerships with chapters abroad (e.g., Egypt) for volunteer exchange. Promoted to MB (Managing Board), Business Development — raised ₹1.5 lakh in sponsorship within span of one month for WLS (Women Leadership Summit), an international event, while also serving as Core Committee Vice President for the event.",
-        image: "/leadership-aiesec-wls-1.jpg",
+        image: "/images/aiesec1.png",
       },
       {
         org: "National Entrepreneurship Challenge-26",
@@ -176,7 +176,7 @@ export const LEADERSHIP: LeadershipYear[] = [
         summary: "Represents Department of Mechanical Engineering",
         detail:
           "Member of the Student Council representing the Mechanical Engineering department. Also serves as Placement Coordinator, connecting students with internship and placement opportunities.",
-        image: u(""),
+        image: "/images/iic2.jpg",
       },
       {
         org: "Institution's Innovation Counci (IIC)",
@@ -185,7 +185,7 @@ export const LEADERSHIP: LeadershipYear[] = [
         summary: "Continued Institution's Innovation Counci (IIC) coordination into Year 3.",
         detail:
           "Continuing as IIC Coordinator, supporting innovation culture and startup initiatives across campus.",
-        image: u(""),
+        
       },
     ],
   },
@@ -322,7 +322,7 @@ export const CERTIFICATIONS: Certification[] = [
     title: "AI-Powered Well-Being App",
     issuer: "TEKNOV8R Startup Solutions (OPC) Pvt. Ltd.",
     date: "2024",
-    img: "/images/tek2.pg",
+    img: "/images/tek2.png",
   },
   {
     title: "Workshop on Raising Capital and Mapping Finance for Startups",
