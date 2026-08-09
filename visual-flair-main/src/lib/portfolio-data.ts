@@ -378,6 +378,13 @@ export const CERTIFICATIONS: Certification[] = [
     date: "2026",
     img: "/certification/c13.jpg",
   },
+{
+    title: "Internship on Maintenance, Production, and TPM (Total Productive Maintenance)",
+    issuer: "Hindustan Coca-Cola Beverages Pvt ltd",
+                
+    date: "2026",
+    img: "/certification/cc ceri.png",
+  },
 
 
 ];
